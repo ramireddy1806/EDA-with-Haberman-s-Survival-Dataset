@@ -1,4 +1,4 @@
-Objective is to classify a patient survived 5 years/longer or died within 5 years for the given data set.
+Objective is to classify a patient survived 5 years longer or died within 5 years for the given data set.
 
 Attribute Information:                                                     
 a. Age of patient at time of operation (numerical)                                       
